@@ -7,3 +7,8 @@
 🚀 持续沉淀运维经验、插件项目与相关工具，建设稳定开放的社区基础设施
 
 🌐 进入 [主页](https://orzmc.jokerhub.cn) 了解更多
+
+---
+
+- [modrinth](https://modrinth.com/organization/orzmc)
+- [hangar](https://hangar.papermc.io/wangzhizhou666)
