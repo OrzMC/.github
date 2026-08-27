@@ -37,19 +37,19 @@
 |---|---|---|---|---|---|
 | 主仓库 | **OrzMC** | All-in-One Super Repo，15 个子模块的总入口 | Shell | Apache-2.0 | [GitHub](https://github.com/OrzMC/OrzMC) |
 | 插件 | **OrzMCPlugin** | 服务器核心管理插件：白名单、机器人、`/tpbow` `/guide` `/bot` `/portal` `/menu`、TNT 防护、区域限制、跨服传送门 | Java | GPL-3.0 | [Hangar](https://hangar.papermc.io/wangzhizhou666) |
-| 插件 | LoginSecurity | 登录认证插件 | Java | [占位] | [repo](https://github.com/OrzMC/LoginSecurity) |
+| 插件 | LoginSecurity | 登录认证插件 | Java | Apache-2.0 | [repo](https://github.com/OrzMC/LoginSecurity) |
 | 插件 | GetMeHome | `/home` 家的传送插件 | Java | MIT | [repo](https://github.com/OrzMC/GetMeHome) |
 | 插件 | DeathChest | 死亡掉落箱子插件 | Java | MIT | [repo](https://github.com/OrzMC/death-chest) |
 | 插件 | EzShops | 商店插件 | Java | MIT | [repo](https://github.com/OrzMC/EzShops) |
 | CLI/工具 | **orzmc-app** | 跨平台 CLI：客户端启动 / 服务端一键部署 | Python | Apache-2.0 | [PyPI](https://pypi.org/project/orzmc-app/) |
 | CLI/工具 | **OrzMCAdmin** | 服主自动化运维，可交给 AI Agent | Python | MIT | [repo](https://github.com/OrzMC/OrzMCAdmin) |
-| CLI/工具 | **OrzMCBackup** | MCA 世界备份 / 优化，按 InhabitedTime 清理区块 | Kotlin | [占位] | [repo](https://github.com/OrzMC/OrzMCBackup) |
+| CLI/工具 | **OrzMCBackup** | MCA 世界备份 / 优化，按 InhabitedTime 清理区块 | Kotlin | © 2026 wangzhizhou | [repo](https://github.com/OrzMC/OrzMCBackup) |
 | CLI/工具 | rust-thanos | Rust 版区块清理工具 | Rust | [占位] | [repo](https://github.com/OrzMC/rust-thanos) |
-| CLI/工具 | thanos | PHP 版区块清理工具（上游 fork） | PHP | [占位] | [repo](https://github.com/aternosorg/thanos) |
+| CLI/工具 | thanos | PHP 版区块清理工具（上游 fork） | PHP | MIT | [repo](https://github.com/aternosorg/thanos) |
 | 部署/网络 | **OrzMCDeploy** | Docker 部署：MCSManager / EasyBot / MariaDB / Gatus | Shell | [占位] | [repo](https://github.com/OrzMC/OrzMCDeploy) |
 | 部署/网络 | **OrzMCProxy** | FRP 跨网中转，解决三网延迟 / 拒连 | Shell | [占位] | [repo](https://github.com/OrzMC/OrzMCProxy) |
 | 客户端/应用 | **OrzMCApp** | macOS/iOS 应用 + Swift 库 | Swift | [占位] | [repo](https://github.com/OrzMC/OrzMCApp) |
-| 客户端/应用 | OrzWebMC | 浏览器玩 Minecraft 的探索 | [占位] | [占位] | [repo](https://github.com/OrzMC/OrzWebMC) |
+| 客户端/应用 | OrzWebMC | 浏览器玩 Minecraft 的探索 | Shell | [占位] | [repo](https://github.com/OrzMC/OrzWebMC) |
 | 站点/社区 | **OrzMCSite** | 官方网站 orzmc.jokerhub.cn | HTML | [占位] | [官网](https://orzmc.jokerhub.cn) |
 | 运维脚本 | scripts/ · skins/ | 运维脚本 / 玩家皮肤 | Shell | — | 见 [OrzMC](https://github.com/OrzMC/OrzMC) |
 
