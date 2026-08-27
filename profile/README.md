@@ -57,16 +57,18 @@
 
 ## 🎮 玩家 · 👨💻 开发者
 
-**玩家进服**：申请白名单 → 审核通过 → 进服（审核制）。地址 `[占位]` · 版本 `[占位]` · 社群 `[占位]`（QQ / Discord / 官网）
+**玩家进服**：申请白名单 → 审核通过 → 进服（审核制）。服务器地址、版本与社群入口见 [官网](https://orzmc.jokerhub.cn)。
 
 **开发者贡献**：从 [OrzMC](https://github.com/OrzMC/OrzMC) 开始，fork → PR。技术栈 Java / Kotlin / Rust / Python / Swift / Shell。新手看各仓库 `good first issue`。
 
 ## 💖 支持我们
 
-混合自营利：核心功能永久免费，收入用于覆盖服务器与开发成本，资金去向每月公开。
+核心功能永久免费，捐赠与返佣全部用于覆盖服务器与开发成本，资金去向公开透明。
 
-❤️ 捐赠 `[占位]` · 🚀 增值 `[占位]` · 🛠️ 代运维 `[占位]`
+[❤️ 爱发电捐赠](https://ifdian.net/a/orzmc) · [☁️ 腾讯云返佣](https://curl.qcloud.com/yc9gf7MY) · [☁️ 阿里云返佣](https://www.aliyun.com/product/ecs?userCode=uqebe1h3)
+
+> 🚀 增值功能 · 🛠️ 代运维服务 —— 筹备中
 
 ---
 
-联系 `[占位]` · 遵循 Mojang EULA · 与 Mojang / Microsoft 无关
+遵循 Mojang EULA · 与 Mojang / Microsoft 无关
