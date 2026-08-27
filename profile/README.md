@@ -27,7 +27,7 @@
   ▼ 运维
 运维部署    orzmc-app CLI · OrzMCAdmin · OrzMCDeploy · OrzMCBackup · rust-thanos
   ▼
-站点社区    OrzMCSite 官网 · Modrinth · Hangar · QQ / Discord
+站点社区    OrzMCSite（官方网站）
 ```
 
 <details>
@@ -69,6 +69,4 @@
 
 ---
 
-🌐 [官网](https://orzmc.jokerhub.cn) · [Modrinth](https://modrinth.com/organization/orzmc) · [Hangar](https://hangar.papermc.io/wangzhizhou666) · 𝕏 [@OrzMC666](https://x.com/OrzMC666) · 联系 `[占位]`
-
-_遵循 Mojang EULA · 与 Mojang / Microsoft 无关_
+联系 `[占位]` · 遵循 Mojang EULA · 与 Mojang / Microsoft 无关
