@@ -71,4 +71,11 @@
 
 ---
 
+## 🔗 相关组织
+
+- [**OrzGeeker**](https://github.com/OrzGeeker) — 🎵 芯片音乐（KeyGen / Chiptune）与 🛠️ Swift 工具链
+- [**EasyIndie**](https://github.com/EasyIndie) — 🤖 AI 时代一人公司（OPC）基础设施建设
+
+---
+
 遵循 Mojang EULA · 与 Mojang / Microsoft 无关
