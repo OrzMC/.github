@@ -45,7 +45,7 @@
 | CLI/工具 | **OrzMCAdmin** | 服主自动化运维，可交给 AI Agent | Python | MIT | [repo](https://github.com/OrzMC/OrzMCAdmin) |
 | CLI/工具 | **OrzMCBackup** | MCA 世界备份 / 优化，按 InhabitedTime 清理区块 | Kotlin | © 2026 wangzhizhou | [repo](https://github.com/OrzMC/OrzMCBackup) |
 | CLI/工具 | rust-thanos | Rust 版区块清理工具 | Rust | [占位] | [repo](https://github.com/OrzMC/rust-thanos) |
-| CLI/工具 | thanos | PHP 版区块清理工具（上游 fork） | PHP | MIT | [repo](https://github.com/aternosorg/thanos) |
+| CLI/工具 | thanos | PHP 版区块清理工具（直接引用上游，未 fork） | PHP | MIT | [repo](https://github.com/aternosorg/thanos) |
 | 部署/网络 | **OrzMCDeploy** | Docker 部署：MCSManager / EasyBot / MariaDB / Gatus | Shell | [占位] | [repo](https://github.com/OrzMC/OrzMCDeploy) |
 | 部署/网络 | **OrzMCProxy** | FRP 跨网中转，解决三网延迟 / 拒连 | Shell | [占位] | [repo](https://github.com/OrzMC/OrzMCProxy) |
 | 客户端/应用 | **OrzMCApp** | macOS/iOS 应用 + Swift 库 | Swift | [占位] | [repo](https://github.com/OrzMC/OrzMCApp) |
